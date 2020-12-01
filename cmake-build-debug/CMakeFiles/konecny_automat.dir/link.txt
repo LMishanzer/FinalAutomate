@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/konecny_automat.dir/sample.cpp.o  -o konecny_automat 

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mike/Projects/konecny_automat/sample.cpp
+algorithm
+-
+cassert
+-
+cstdio
+-
+cstdlib
+-
+deque
+-
+iostream
+-
+list
+-
+map
+-
+memory
+-
+numeric
+-
+optional
+-
+queue
+-
+set
+-
+sstream
+-
+stack
+-
+vector
+-
+sample.h
+/home/mike/Projects/konecny_automat/sample.h
+
+/home/mike/Projects/konecny_automat/sample.h
+
